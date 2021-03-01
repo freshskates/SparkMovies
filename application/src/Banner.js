@@ -36,6 +36,7 @@ function Banner() {
 
         {/* description */}
       </div>
+      <div className="banner--fadebottom" />
     </header>
   );
 }

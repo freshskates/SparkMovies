@@ -19,7 +19,7 @@
   transition: transform 350ms;
 }
 .row__title {
-  padding-top: 6px;
+  padding-top: 3px;
   color: white;
 }
 .row__posterLarge {
