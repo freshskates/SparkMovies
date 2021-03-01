@@ -6,3 +6,5 @@
 <img src="https://i.imgur.com/0TDxpMe.jpg" />
 # TODO: 
 <li> Fix compatibility with Firefox
+<li> Implement Backend
+<li> SSO Auth
