@@ -1,4 +1,3 @@
-// const process.env.REACT_APP_MOVIE_API_KEY = process.env.REACT_APP_MOVIE_process.env.REACT_APP_MOVIE_API_KEY;
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${process.env.REACT_APP_MOVIE_API_KEY}&language=en-US`,
   fetchNetflixOriginals: `/discover/tv?api_key=${process.env.REACT_APP_MOVIE_API_KEY}&withnetwork=213`,
